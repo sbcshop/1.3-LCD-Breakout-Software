@@ -21,3 +21,4 @@ In this folder you see two python files and one firmware.uf2 file
    <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/img.JPG" />
    
    
+### <a href="https://learn.sb-components.co.uk/Pico-4g-expansion" > 1.3'' LCD Breakout Wiki Portal </a>
