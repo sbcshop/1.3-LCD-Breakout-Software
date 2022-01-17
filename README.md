@@ -2,7 +2,7 @@
 
 <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/1.3inchLCDBreakout.png" />
 
-## 1.3inch LCD Display breakout Module for microcontrollers eg: Raspberry pi, Arduino and raspberry pi pico etc. it has , 65K Colors, 240×240, supports SPI protocol
+### 1.3inch LCD breakout Module for microcontrollers eg: Raspberry pi, Arduino and raspberry pi pico etc. it has , 65K Colors, 240×240, supports SPI protocol
 
 In this folder you see two python files and one firmware.uf2 file
  * st7789.py -> this file contain the library of the lcd module, save the file in the raspberry pi pico
