@@ -7,4 +7,4 @@
 In this folder you see two python files and one firmware.uf2 file
  * st7789.py -> this file contain the library of the lcd module, save the file in the raspberry pi pico
  * main.py   -> this file contain the main code, you need to run this file, you also need to save this file to Pico
- * firmware.uf2 -> by pressing bootsel of the pico and hold then connect to laptop after this a new stroage device is come, name "RPI-RP2"
+ * firmware.uf2 -> by pressing bootsel of the pico and hold then connect to laptop after this a new stroage device is come, name "RPI-RP2",then  drag and drop this file to pico
