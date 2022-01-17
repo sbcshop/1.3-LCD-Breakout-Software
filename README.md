@@ -11,3 +11,7 @@ In this folder you see two python files and one firmware.uf2 file
 
 ##  Example :
    <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/img1.jpg" />
+   
+   <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/img.JPG" />
+   
+   
