@@ -15,7 +15,7 @@ In this folder you see two python files and one firmware.uf2 file
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
 
-##  Example :
+##  Example : Connect to Raspberry pi Pico
    <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/img1.jpg" />
    
    <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/img.JPG" />
