@@ -10,3 +10,4 @@ In this folder you see two python files and one firmware.uf2 file
  * firmware.uf2 -> by pressing bootsel of the pico and hold then connect to laptop after this a new stroage device is come, name "RPI-RP2",then  drag and drop this file to pico
 
 ##  Example :
+   <img src= "https://github.com/sbcshop/1.3-inch-LCD-Breakout/blob/main/images/img1.jpg" />
